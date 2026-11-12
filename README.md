@@ -195,7 +195,7 @@ The depth graph displays changes in vehicle depth over time, while the map displ
 
 **Ground Station Dashboard**
 
-![ROV Ground Station Dashboard](/Screenshot from 2026-11-12 13-38-19.png)
+![ROV Ground Station Dashboard](Screenshot%20from%202026-11-12%2013-38-19.png)
 
 ## 7. Technology Stack
 
