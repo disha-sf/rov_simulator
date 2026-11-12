@@ -193,11 +193,9 @@ The depth graph displays changes in vehicle depth over time, while the map displ
 
 ### Screenshots
 
-Add your application screenshots in a folder named `screenshots/` and update the image paths below.
-
 **Ground Station Dashboard**
 
-![ROV Ground Station Dashboard](screenshots/dashboard.png)
+![ROV Ground Station Dashboard](Screenshot from 2026-11-12 13-38-19.png)
 
 ## 7. Technology Stack
 
