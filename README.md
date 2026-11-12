@@ -199,14 +199,6 @@ Add your application screenshots in a folder named `screenshots/` and update the
 
 ![ROV Ground Station Dashboard](screenshots/dashboard.png)
 
-**Depth-versus-Time Plot**
-
-![Depth Plot](screenshots/depth_plot.png)
-
-**Embedded OpenStreetMap**
-
-![ROV Map](screenshots/rov_map.png)
-
 ## 7. Technology Stack
 
 | Technology | Purpose |
